@@ -15,19 +15,6 @@ This is a personal portfolio and bio page for Valeria Rusu, showcasing professio
 - **Scroll-to-Top Button**: Quick navigation back to the top of the page.
 - **Footer**: Copyright information.
 
-## Getting Started
-
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/rusuvaleria25/my-bio-page.git
-   ```
-2. **Open the folder in VS Code or your preferred editor.**
-3. **Add your profile image:**
-   - Place your photo as `photo.jpg` in the project root.
-4. **Customize content:**
-   - Update sections in `index.html` as needed.
-   - Edit styles in `style.css`.
-   - Add interactivity in `script.js`.
 
 ## Dependencies
 
